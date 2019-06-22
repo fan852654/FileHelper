@@ -1,0 +1,6 @@
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\bin\Debug\netstandard2.0\FileHerlper.deps.json
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\bin\Debug\netstandard2.0\FileHerlper.dll
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\obj\Debug\netstandard2.0\FileHerlper.csprojAssemblyReference.cache
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\obj\Debug\netstandard2.0\FileHerlper.csproj.CoreCompileInputs.cache
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\obj\Debug\netstandard2.0\FileHerlper.AssemblyInfoInputs.cache
+C:\Users\ghost\source\repos\FileHerlper\FileHerlper\obj\Debug\netstandard2.0\FileHerlper.AssemblyInfo.cs
